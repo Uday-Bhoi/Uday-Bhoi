@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Uday Ravindra Bhoi</h1>
-<h3 align="center">Aspiring Software Developer | B.Sc IT Student | Technophile | Lifelong Learner</h3>
+<h3 align="center">Aspiring MERN Stack Developer | B.Sc IT Student | Technophile | Lifelong Learner</h3>
 
 <p align="center">
   <a href="mailto:udayb512004@gmail.com"><img src="https://img.shields.io/badge/Email-udayb512004@gmail.com-blue?style=flat&logo=gmail"></a>
