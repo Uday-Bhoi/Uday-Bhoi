@@ -41,19 +41,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 💼 Projects
-
-- 🗺️ **Data Visualization on Google Maps Timeline**  
-  → Analyzed multiple dimensions of user activity using ML insights and proposed practical enhancements.
-
-- 🧾 **Supermarket Invoice System (C)**  
-  → Built a CLI-based billing system with user login, dynamic bill generation, and discount logic.
-
-- ☕ **Café/Bistro Website**  
-  → Designed a modern webpage showcasing menu, ambiance, and reservation features.
-
----
-
 ### 📜 Certifications
 
 - **Data Analysis & GitHub using Advanced Python**  
