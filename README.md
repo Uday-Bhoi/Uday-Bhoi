@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Uday Ravindra Bhoi</h1>
+<h1 align="center">Hey there 👋, I'm Uday Ravindra Bhoi</h1>
 <h3 align="center"> MERN Stack Developer | B.Sc IT Graduate | Technophile | Lifelong Learner</h3>
 
 <p align="center">
